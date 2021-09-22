@@ -1,0 +1,22 @@
+{
+  "name": "food-and-more-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterHedemann/food-and-more-api.git"
+  },
+  "author": "Peter Rossau von Hedemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeterHedemann/food-and-more-api/issues"
+  },
+  "homepage": "https://github.com/PeterHedemann/food-and-more-api#readme",
+  "devDependencies": {
+    "netlify-cli": "^6.9.12"
+  }
+}
